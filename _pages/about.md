@@ -51,9 +51,10 @@ The topics of interest for this workshop, but not limited to, are provided below
 
 ## Organizing Committee
 *	Felix Mannhardt, Eindhoven University of Technology, Netherlands
-*	Flavia Maria Santoro, University of the State of Rio de Janeiro, Brazil
 *	Majid Rafiei, RWTH Aachen University, Germany
-*	Stephan Fahrenkrog-Petersen, Humboldt-Universität zu Berlin, Germany
+*	Stephan Fahrenkrog-Petersen, Weizenbaum Institute for the Networkworked Society, Germany
+*	Sareh Sadeghianasl, Queensland University of Technology, Australia
+*	Jochen de Weerdt, KU Leuven, Belgium
 
 Please direct questions about the RPM workshop to *Felix Mannhardt*, f.mannhardt@tue.nl.
 

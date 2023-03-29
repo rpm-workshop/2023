@@ -52,7 +52,7 @@ The topics of interest for this workshop, but not limited to, are provided below
 ## Organizing Committee
 *	Felix Mannhardt, Eindhoven University of Technology, Netherlands
 *	Majid Rafiei, RWTH Aachen University, Germany
-*	Stephan Fahrenkrog-Petersen, Weizenbaum Institute for the Networkworked Society, Germany
+*	Stephan Fahrenkrog-Petersen, Weizenbaum Institute for the Networked Society, Germany
 *	Sareh Sadeghianasl, Queensland University of Technology, Australia
 *	Jochen de Weerdt, KU Leuven, Belgium
 

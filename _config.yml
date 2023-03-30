@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "4th Workshop on Responsible Process Mining (RPM)"
+title                    : "4th Workshop on Responsible Process Mining - Data Governance, Trust, and Privacy (RPM)"
 title_separator          : "-"
-name                     : &name "4th Workshop on Responsible Process Mining (R"
+name                     : &name "4th Workshop on Responsible Process Mining - Data Governance, Trust, and Privacy (RPM)"
 description              : &description "Workshop organized in conjunction with the 5th International Conference on Process Mining: ICPM 2023 in Rome, Italy"
 url                      : https://rpm-workshop.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/2023" # the subpath of your site, e.g. "/blog"

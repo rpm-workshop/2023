@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "3rd Workshop on Responsible Process Mining (RPM)"
+title                    : "4th Workshop on Responsible Process Mining (RPM)"
 title_separator          : "-"
-name                     : &name "3rd Workshop on Responsible Process Mining (R"
-description              : &description "Workshop organized in conjunction with the 4th International Conference on Process Mining: ICPM 2022 in Bozen-Bolzano, Italy"
+name                     : &name "4th Workshop on Responsible Process Mining (R"
+description              : &description "Workshop organized in conjunction with the 5th International Conference on Process Mining: ICPM 2023 in Rome, Italy"
 url                      : https://rpm-workshop.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/2022" # the subpath of your site, e.g. "/blog"
-repository               : "rpm-workshop/2022"
+baseurl                  : "/2023" # the subpath of your site, e.g. "/blog"
+repository               : "rpm-workshop/2023"
 teaser                   : "RPM-Logo.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160

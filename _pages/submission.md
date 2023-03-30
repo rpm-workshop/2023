@@ -6,12 +6,12 @@ author_profile: true
 
 ## Important dates
 
-* Submission of Workshop-Paper Abstracts: <del>10 August 2022</del> **24 August 2022 (extended)** 
-* Submission of Workshop Papers: <del>17 August 2022</del> **24 August 2022 (extended)**
-* Workshop-Paper Notification: 14 September 2022
-* Pre-workshop Camera-Ready Submissions: 5 October 2022
-* Workshop Day: 24 October 2022
-* Post-workshop Camera-Ready Submissions: 7 November 2022
+* Submission of Workshop-Paper Abstracts: 22 August 2023
+* Submission of Workshop Papers: 22 August 2023
+* Workshop-Paper Notification: 12 September 2023
+* Pre-workshop Camera-Ready Submissions: 3 October 2023
+* Workshop Day: 23 October 2023
+* Post-workshop Camera-Ready Submissions: 7 November 2023
 
 All deadlines correspond to anywhere on earth ('AoE' or 'UTC-12')
 
@@ -26,7 +26,7 @@ Authors should follow the Springer formatting for Lecture Notes on Computer Scie
 ## Submission
 Papers and abstracts should be submitted through the Easy Chair web site of the ICPM conference in PDF format by selecting the "Responsible Process Mining" track:
 
-[https://easychair.org/conferences/?conf=icpm2022](https://easychair.org/conferences/?conf=icpm2022)
+**EASYCHAIR TO BE ANNOUNCED**
 
 By submitting a paper, authors implicitly agree that at least one of them will register to the conference and present the paper. It is expected that at least one author will register for each accepted paper. Only papers that have been presented by their authors during the conference will be published in the conference proceedings.
 

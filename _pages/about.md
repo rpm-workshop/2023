@@ -58,17 +58,29 @@ The topics of interest for this workshop, but not limited to, are provided below
 
 Please direct questions about the RPM workshop to *Felix Mannhardt*, f.mannhardt@tue.nl.
 
-## Program committee
+## Program committee (tentative)
 
 * Agnes Koschmider, Kiel University, Germany
 * Alessandro Stefanini, University of Pisa, Italy
+•	Andrea Burattin, Technical University of Denmark, Denmark
+•	Arthur ter Hofstede, Queensland University of Technology, Australia
+•	Claudio Di Ciccio, Sapeinza University of Rome, Italy
+•	Eric Verbeek, Eindhoven University of Technology, The Netherlands
+•	Flavia Maria Santoro, University of the State of Rio de Janeiro, Brazil
 * Florian Tschorsch, Technical University Berlin, Germany
-* Luciano Garcia Bañuelos, Tecnologico de Monterrey, Mexico
-* Martin Kabierski, Humboldt-Universität zu Berlin, Germany
-* Moe Wynn, Queensland University of Technology, Australia
-* Nicola Zannone, Eindhoven University of Technology, The Netherlands
-* Renata de Carvalho, Eindhoven University of Technology, The Netherlands
-* Shangping Ren, San Diego State University, USA
-* Xixi Lu, Utrecht University, The Netherlands
-* Gamal Elkoumy, University of Tartu, Estonia
-
+•	Han van der Aa, University of Mannheim, Germany
+•	Henrik Leopold, Kühne Logistics University, Germany
+•	Johannes De Smedt, KU Leuven, Belgium
+•	Judith Michael, RWTH Aachen, Germany
+•	Kanika Goel, Queensland University of Technology, Australia
+•	Luciano Garcia Bañuelos, Tecnologico de Monterrey, Mexico
+•	Marco Comuzzi, Ulsan National Institute of Science and Technology, South Korea
+•	Martin Kabierski, Humboldt-Universität zu Berlin, Germany
+•	Moe Wynn, Queensland University of Technology
+•	Nicola Zannone, Eindhoven University of Technology
+•	Niels Martin, Hasselt University, Belgium
+•	Pnina Soffer, University of Haifa, Israel
+•	Robert Andrews, Queensland University of Technology, Australia
+•	Sander J.J. Leemans, RWTH Aachen, Germany
+•	Shangping Ren, San Diego State University, United States of Amerika
+•	Xixi Lu, Utrecht University, The Netherlands

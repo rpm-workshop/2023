@@ -9,9 +9,11 @@ redirect_from:
 
 ## Workshop description
 
-Process mining has been successfully applied in analysing and improving processes based on event logs in all kinds of environments. **Responsible Process Mining** (RPM) is highly relevant to our more and more data-driven society and has received less focus. *FACT* (Fair, Accurate, Confidential, and Transparent) and similar other principles for data science and machine learning have been proposed (cf. [redasci.org](https://redasci.org)) to guide the development and application of data science. Issues such as lacking data quality in event logs, identifiable personal data in event logs, biased event logs, learning, discovery techniques with opaque parameters, uncertain event data and many more aspects threaten the compliance to these principles in process analytics. However, process mining could also be applied to help with the “FACT-ful” application of machine learning and other data-driven techniques by bringing transparency. All aspects of RPM are in the scope of this workshop covering a wide range of concepts and challenges such as *fairness*, *accuracy*, *confidentiality*, *privacy*, *transparency*, *explainability*, *trust*, *data quality*, *ethics*, *security*, and other related topics. Thus, responsibility in process mining covers a wide range of topics and issues. In the following, we briefly explain some of the main aspects.
+Process mining has been successfully applied in analysing and improving processes based on event logs in all kinds of environments. **Responsible Process Mining** (RPM) is highly relevant to our more and more data-driven society and has received less focus. *FACT* (Fair, Accurate, Confidential, and Transparent) and similar other principles for data science and machine learning have been proposed (cf. [redasci.org](https://redasci.org)) to guide the development and application of data science. Issues such as lacking data quality in event logs, identifiable personal data in event logs, biased event logs, learning, discovery techniques with opaque parameters, uncertain event data and many more aspects threaten the compliance to these principles in process analytics. However, process mining could also be applied to help with the “FACT-ful” application of machine learning and other data-driven techniques by bringing transparency. All aspects of RPM are in the scope of this workshop covering a wide range of concepts and challenges such as *fairness*, *accuracy*, *confidentiality*, *privacy*, *transparency*, *explainability*, *trust*, *data governance*, *data quality*, *ethics*, *security*, and other related topics. Thus, responsibility in process mining covers a wide range of topics and issues. In the following, we briefly explain some of the main aspects.
 
 **Ethics**. The field of ethics analyses practices, principles, traditions, and habits. Although widely disseminated as so, the primary interest in ethics is not to define what is “good” or “evil”, “right” or “wrong”. Ethics rationally analyses actions, with Morality as the subject. While Morality fits a subjective perception, considering that each of us is a subject endowed with morals, Ethics is traditionally taken as objective. It involves balancing subjectivity and objectivity, combining personal interest and moral interest. Since computational techniques, in general, are not neutral and, to a large extent, they are embargoed from technological determinisms; ethical analysis is necessary when applying process mining techniques. For example, predictive analytics results through process mining can lead to a behaviour that improves process performance but is not acceptable from an ethical perspective.
+
+**Data Governance**. One of the aspects of RPM is data governance, which is a new capability for organisations to implement a corporate wide strategy to ensure data is of value. It ties together areas such as data quality, data security, data architecture, and data integration and interoperability. Data quality is a key area in data governance. Usually, a significant amount of time and effort associated with process mining projects is spent on data preparation tasks. A recent survey within the process mining community (XES) shows that more than 60% of the overall effort is spent on data preparation, where challenges such as complex data structures, incomplete, and inconstant data are being addressed. Current approaches to data preparation (e.g., data transformation, data quality auditing and remedies for repairs) are mostly ad-hoc and manual. Thus, there is a need for systematic and preferably automated approaches to event data transformation that will speed up the production of high-quality process data for decision-making purposes.
 
 **Privacy**. Privacy relates to the concern that event logs may contain personal data of both customers and employees and the challenge of protecting the information about individuals while still being useful for process mining (e.g., differential privacy, k-anonymity, homomorphic encryption, secure multi-party computing). Often, security aspects (e.g., encryption) are closely connected when processing personal data cannot be avoided. 
 
@@ -23,16 +25,19 @@ Process mining has been successfully applied in analysing and improving processe
 
 There exist interdependencies among different aspects of responsible process mining. For example, improving privacy always comes with data utility/quality loss, or providing confidentiality using encryption-based techniques may affect the transparency of results. Moreover, improving some issues such as trust often requires considering several aspects at the same time, e.g., security, privacy, and fairness. These interdependencies are challenging to address, yet, at the same time, they provide a big opportunity for collaboration among researchers to promote the responsibility in process mining as a whole. 
 
-The main objective of the RPM workshop is to give a forum where researchers and practitioners can meet each other and start new collaboration points to promote responsible process analytics. We also consider topics from the ethics aspect to clarify real ethical issues for the process mining community with respect to the rules and regulations. We invite researchers and industry to share their research, ideas, experience reports, and challenges in this area. 
+The main objective of the RPM workshop is to give a forum where researchers and practitioners can meet each other and start new collaboration points to promote responsible process analytics. We also consider topics from the ethics aspect to clarify real ethical issues for the process mining community with respect to the rules and regulations.  
 
 The topics of interest for this workshop, but not limited to, are provided below.
 
 ## Topics
 
-*	Responsible Process Mining
 *	Privacy-Preserving Methods for Process Mining
 *	Trust and Transparency in Process Mining 
+*	Fairness in Process Mining
 *	Data Quality in Process Mining
+*	Data Governance Frameworks for event data	
+*	Techniques to detect and repair data quality issues in event data 
+*	Automated approaches to data pre-processing for process mining
 *	Uncertainty in Process Mining
 *	Ethics in Process Mining
 *	Explainable Predictive/Prescriptive Process Mining
@@ -45,9 +50,10 @@ The topics of interest for this workshop, but not limited to, are provided below
 *	Privacy Engineering for Event Logs / Private Data Sharing
 *	Explainable AI and Process Mining
 *	Trustworthy AI and Process Mining
-*	Fairness in Process Mining
 *	Process Mining in Cybersecurity
-*	Sustainability and Process Mining
+*	Frameworks to detect and quantify the quality of an event log 
+*	Case studies highlighting data preparation challenges and lessons learned
+*	Methodologies and best practices for data preparation for process mining
 
 ## Organizing Committee
 *	Felix Mannhardt, Eindhoven University of Technology, Netherlands

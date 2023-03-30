@@ -1,8 +1,5 @@
 # main links links
 main:
-  - title: "Call for Papers"
-    url: /
-
   - title: "Submission"
     url: /submission/
     
@@ -10,9 +7,4 @@ main:
     url: /program/    
 
   - title: "Logistics"
-    url: /logistics/      
-    
-  - title: "ICPM 2022"
-    url: https://icpmconference.org/2022/
-
-
+    url: /logistics/

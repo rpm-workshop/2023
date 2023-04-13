@@ -80,8 +80,8 @@ Please direct questions about the RPM workshop to *Felix Mannhardt*, f.mannhardt
 *	Martin Kabierski, Humboldt-Universität zu Berlin, Germany
 *	Moe Wynn, Queensland University of Technology
 *	Nicola Zannone, Eindhoven University of Technology
+*   Gamal Elkoumy, University of Tartu
 *	Niels Martin, Hasselt University, Belgium
-*	Robert Andrews, Queensland University of Technology, Australia
 *	Sander J.J. Leemans, RWTH Aachen, Germany
 *	Shangping Ren, San Diego State University, United States of Amerika
 *	William van Woensel, University of Ottawa, Canada

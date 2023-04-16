@@ -8,12 +8,12 @@ redirect_from:
 
 ## Venue
 
-Have a look at the ICPM 2022 website for information on Bozen-Bolzano:
+Have a look at the ICPM 2023 website for information:
 
-https://icpmconference.org/2022/
+https://icpmconference.org/2023/
 
 ## Registration
 
 To be opened:
 
-https://icpmconference.org/2022/registration/
+https://icpmconference.org/2023/registration/

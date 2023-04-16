@@ -11,8 +11,9 @@ To be announced
 
 ## Schedule
 
-| Time (CEST)     | Title     | Authors / Speakers                                                             |
+| Time (CEST)     | Title     | Authors / Speakers                                           |
 | --------------- | --------- | ------------------------------------------------------------ |
+| TBD             | TBD       | TBD                                                          |
 
 ## Presentation format
 

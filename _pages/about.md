@@ -86,3 +86,4 @@ Please direct questions about the RPM workshop to *Felix Mannhardt*, f.mannhardt
 *	Shangping Ren, San Diego State University, United States of Amerika
 *	William van Woensel, University of Ottawa, Canada
 *	Xixi Lu, Utrecht University, The Netherlands
+*	Kanika Goel, Queensland University of Technology, Australia

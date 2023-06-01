@@ -34,4 +34,5 @@ By submitting a paper, authors implicitly agree that at least one of them will r
 The proceedings of the workshops will be published together with the other ICPM workshops as conference proceedings by Springer-Verlag in its Lecture Notes in Business Information Systems (LNBIP) series.
 
 ## Special Issue
-We are in the process of organizing a special issue in an international journal. This would allow for the fast-track publication of extended version of papers that have been accepted into the workshop.
+Selected contributions presented at the workshop will be invited to submit an extended version for fast-track publication in the Weizenbaum Journal of the Digital Society (https://ojs.weizenbaum-institut.de/index.php/wjds).
+  

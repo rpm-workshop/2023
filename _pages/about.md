@@ -54,6 +54,7 @@ The topics of interest for this workshop, but not limited to, are provided below
 *	Frameworks to detect and quantify the quality of an event log 
 *	Case studies highlighting data preparation challenges and lessons learned
 *	Methodologies and best practices for data preparation for process mining
+*	Sustainability and Process Mining
 
 ## Organizing Committee
 *	Felix Mannhardt, Eindhoven University of Technology, Netherlands

@@ -7,7 +7,7 @@ author_profile: true
 ## Important dates
 
 * Submission of Workshop-Paper Abstracts: 22 August 2023
-* Submission of Workshop Papers: 22 August 2023
+* Submission of Workshop Papers: ~~22 August 2023~~ 28 August 2023
 * Workshop-Paper Notification: 12 September 2023
 * Pre-workshop Camera-Ready Submissions: 3 October 2023
 * Workshop Day: 23 October 2023
